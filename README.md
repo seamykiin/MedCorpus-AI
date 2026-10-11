@@ -188,20 +188,12 @@ npm run dev
 ## ⚙️ Environment Configuration (`.env`)
 
 ```env
-# Active Model Provider: 'local', 'groq', or 'gemini'
+# Active Model Provider: 'local'
 ACTIVE_LLM_PROVIDER=local
 
 # Local LLM Configuration (Ollama / vLLM / PyTorch)
 LOCAL_LLM_URL=http://localhost:11434/v1
 LOCAL_LLM_MODEL=medcorpus-local
-
-# Groq Cloud API
-GROQ_API_KEY=your_groq_api_key_here
-GROQ_MODEL=qwen/qwen3.8-27b
-
-# Google Gemini API
-GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
 ```
 
 ---
