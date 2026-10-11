@@ -1,6 +1,5 @@
 # 🩺 MedCorpus AI — Intelligent Medical Report Summarization
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React: 18](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
@@ -257,6 +256,3 @@ Developed for the **CBC 2.0 Hackathon** addressing **Problem Statement 17 (Intel
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
