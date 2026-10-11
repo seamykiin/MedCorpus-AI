@@ -118,7 +118,6 @@ graph TD
 | **Backend** | Python 3.10+, FastAPI, Uvicorn, SQLAlchemy Async, SQLite / PostgreSQL |
 | **Document Processing** | PyMuPDF (Fitz), regex-based biochemical pattern extractors |
 | **Local LLM** | Ollama (`medcorpus-local` 9.2B GGUF), vLLM, PyTorch MPS Bridge |
-| **Cloud AI Services** | Groq (`qwen/qwen3.8-27b`, `whisper-large-v3-turbo`), Google Gemini (`gemini-2.5-flash`) |
 
 ---
 
