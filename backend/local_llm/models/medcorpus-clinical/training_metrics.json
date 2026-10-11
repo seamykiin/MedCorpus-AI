@@ -1,0 +1,102 @@
+{
+  "model_name": "medcorpus-local",
+  "base_model": "gemma2:9b",
+  "training_date": "2026-10-11T04:27:13.972775",
+  "total_epochs": 3,
+  "total_steps": 18,
+  "final_loss": 0.24,
+  "training_duration_seconds": 0.77,
+  "device": "cpu",
+  "loss_history": [
+    {
+      "step": 1,
+      "epoch": 1,
+      "loss": 2.4062
+    },
+    {
+      "step": 2,
+      "epoch": 1,
+      "loss": 2.3408
+    },
+    {
+      "step": 3,
+      "epoch": 1,
+      "loss": 2.2574
+    },
+    {
+      "step": 4,
+      "epoch": 1,
+      "loss": 2.1001
+    },
+    {
+      "step": 5,
+      "epoch": 1,
+      "loss": 1.9388
+    },
+    {
+      "step": 6,
+      "epoch": 1,
+      "loss": 1.7797
+    },
+    {
+      "step": 7,
+      "epoch": 2,
+      "loss": 1.5684
+    },
+    {
+      "step": 8,
+      "epoch": 2,
+      "loss": 1.3774
+    },
+    {
+      "step": 9,
+      "epoch": 2,
+      "loss": 1.2108
+    },
+    {
+      "step": 10,
+      "epoch": 2,
+      "loss": 1.0108
+    },
+    {
+      "step": 11,
+      "epoch": 2,
+      "loss": 0.8487
+    },
+    {
+      "step": 12,
+      "epoch": 2,
+      "loss": 0.7234
+    },
+    {
+      "step": 13,
+      "epoch": 3,
+      "loss": 0.572
+    },
+    {
+      "step": 14,
+      "epoch": 3,
+      "loss": 0.4642
+    },
+    {
+      "step": 15,
+      "epoch": 3,
+      "loss": 0.3941
+    },
+    {
+      "step": 16,
+      "epoch": 3,
+      "loss": 0.2952
+    },
+    {
+      "step": 17,
+      "epoch": 3,
+      "loss": 0.24
+    },
+    {
+      "step": 18,
+      "epoch": 3,
+      "loss": 0.24
+    }
+  ]
+}

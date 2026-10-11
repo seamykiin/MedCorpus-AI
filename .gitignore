@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+backend/venv/
+
+# Environment variables & Secrets (NEVER commit secrets or API keys)
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# Node & Frontend Build artifacts
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm/
+.pnpm-store/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+medcorpus.db
+backend/medcorpus.db
+
+# Uploaded test patient PDFs
+backend/uploads/rep-*
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+.figma/
+
+# Model weights
+*.gguf
+*.bin
+*.pt
+*.safetensors

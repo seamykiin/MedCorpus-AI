@@ -1,0 +1,13 @@
+{
+  "name": "medcorpus-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "./start.sh",
+    "start": "./start.sh",
+    "start:py": "python3 start.py",
+    "backend": "source backend/venv/bin/activate && python backend/run.py",
+    "frontend": "cd frontend && npm run dev",
+    "test:backend": "source backend/venv/bin/activate && python backend/tests/test_api.py"
+  }
+}
